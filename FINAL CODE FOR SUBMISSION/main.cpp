@@ -36,7 +36,7 @@ class bms{
             system("color E5");
             gotoxy(26, 4);
             design(15, 177);
-            cout<<" WELCOME TO TBC BANKING SYSTEM ";
+            cout<<" WELCOME TO ArXWh Bank";
             design(15, 177);
             gotoxy(50, 8);
             cout<<"ACCOUNT TYPE";
@@ -59,7 +59,7 @@ class bms{
             system("color E5");
             gotoxy(26, 4);
             design(15, 177);
-            cout<<" WELCOME TO TBC BANKING SYSTEM ";
+            cout<<" WELCOME TO ArXWh BANKING SYSTEM ";
             design(15, 177);
             login();
             if (verify() == 1) {
