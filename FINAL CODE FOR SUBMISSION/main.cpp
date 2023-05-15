@@ -12,7 +12,9 @@ using namespace std;
 int r;
 int chkacc(int a);
 
+
 COORD coord = {0,0};
+
 
 void gotoxy(int a, int b){
     coord.X = a;
