@@ -7,9 +7,9 @@
 #include <fstream>
 #include <cstdio>
 
-using namespace std;
+using namespace std; 
 
-int r;
+int r;       //global variable
 int chkacc(int a);
 
 
